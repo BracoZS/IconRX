@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="IconRX/IconRX.csproj" />
+  <Project Path="IconRXDemo/IconRXDemo.csproj" />
 </Solution>
