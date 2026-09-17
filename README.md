@@ -2,13 +2,13 @@
 
 SVG icons for WPF.
 
-Drop an .svg file in your project, point `Source="/YourPath/my-icon.svg"` at it, and you get a crisp icon you can color and resize however you want. Simple and easy.
+Drop an .svg file in your project, point `Source="/YourAssets/my-icon.svg"` at it, and you get a crisp icon you can color and resize however you want. Simple and easy.
 
 ```xml
 <icon:Icon Source="/Assets/home.svg" Width="24" Height="24" Foreground="Black" />
 ```
 
-![IconRX demo](demo-image.png)
+![IconRX demo](https://github.com/BracoZS/IconRX/blob/main/demo-image.png)
 
 ## Highlights
 

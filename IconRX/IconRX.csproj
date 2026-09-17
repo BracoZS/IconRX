@@ -14,14 +14,17 @@
     <Version>1.0.0</Version>
     <Authors>Bracozs</Authors>
     <Company>Bracozs</Company>
-    <Description>SVG icon control for WPF. Set Source to an embedded SVG path and get a Geometry Data ready to render.</Description>
-    <PackageTags>wpf;icons;svg;control;geometry</PackageTags>
+    <Description>SVG icons for WPF.
+
+Drop an .svg file in your project, point Source="/YourAssets/my-icon.svg" at it, and you get a crisp icon you can color and resize however you want. Simple and easy.</Description>
+    <PackageTags>wpf;icons;drop-in;svg;control;geometry</PackageTags>
     <RepositoryUrl>https://github.com/BracoZS/IconRX</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Title>IconRX</Title>
     <Copyright>BracoZS</Copyright>
     <PackageProjectUrl>https://github.com/BracoZS/IconRX</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
